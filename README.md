@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anusha Darshanam 👋
 
-<!--
-**Anushaammi/Anushaammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Full Stack Developer** based in Hyderabad, India.
 
-Here are some ideas to get you started:
+I enjoy building real-world projects with Python, Django, SQL and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Web:** Django, HTML, CSS
+- **Database:** SQL Server, SQLite
+
+## 🚀 Projects
+- [Text-to-Speech App](https://github.com/Anushaammi/text-to-speech-app) - Python application that converts text into speech
+- [Web Development](https://github.com/Anushaammi/Web_Development) - HTML & CSS practice projects, including a student profile card
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/anusha-ammi-42482642a)
+- Email: anushaammi1520@gmail.com
