@@ -13,6 +13,7 @@ I enjoy building real-world projects with Python, Django, SQL and web technologi
 - [Text-to-Speech App](https://github.com/Anushaammi/text-to-speech-app) - Python application that converts text into speech
 - [Web Development](https://github.com/Anushaammi/Web_Development) - HTML & CSS practice projects, including a student profile card
 -  [Inventory & Barcode Management](https://github.com/Anushaammi/inventory-barcode-management) - Django web app to manage products, stock levels and barcodes
+-  - [AI Resume Analyser](https://github.com/Anushaammi/ai-resume-analyser) - Django web app that analyses an uploaded resume against a job description
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/anusha-ammi-42482642a)
